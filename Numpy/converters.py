@@ -1,0 +1,14 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # Module
+
+# In[ ]:
+
+
+def lbs_to_kg(weight):
+    return weight * 0.45
+
+def kg_to_lbs(weight):
+    return weight / 0.45
+
